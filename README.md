@@ -9,4 +9,4 @@ Assets.car 文件名加工替换程序
 
 ### 举例
 * replaceFileName /Users/hans/Documents/IOS/素材图标 _58C89562F58FD276F592420068DB8C09_0
-> 注意中间的空格
+* 注意中间的空格
